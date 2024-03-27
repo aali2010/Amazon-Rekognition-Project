@@ -1,6 +1,6 @@
 Built an image labels generator using Amazon Rekognition. 
 
-Usedthe following AWS services:
+I used the following AWS services:
 Amazon S3: For storing the images in the process of generating labels.
 Amazon Rekognition: To analyse images and generate image labels.
 AWS CLI: Interacting with AWS services through command line interface(CLI).
